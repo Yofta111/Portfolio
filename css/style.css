@@ -26,9 +26,9 @@ a {
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  color: #bac964; }
+  color: #3286b3; }
   a:hover, a:focus, a:active {
-    color: #b2c251;
+    color: #0a41ad;
     text-decoration: none; }
 
  .site-navbar .navbar-nav > li > a {
@@ -64,7 +64,7 @@ a {
       .site-navbar .navbar-nav > li > a {
         color: rgba(0, 0, 0, 0.7) !important; } }
   .site-navbar .navbar-nav.active > a {
-    color: #bac964 !important; }
+    color: #3286b3 !important; }
   .site-navbar.scrolled {
     background: #fff;
     -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.09);
@@ -92,17 +92,17 @@ a {
       -webkit-transform: translateY(-100%);
       -ms-transform: translateY(-100%);
       transform: translateY(-100%);
-      background: #bac964 !important; }
+      background: #3286b3 !important; }
     .site-navbar.scrolled .dropdown > a:before {
       color: rgba(0, 0, 0, 0.4); }
     .site-navbar.scrolled .navbar-nav > li > a {
       color: rgba(0, 0, 0, 0.7) !important; }
       .site-navbar.scrolled .navbar-nav > li > a:hover {
-        color: #bac964 !important; }
+        color: #3286b3 !important; }
       .site-navbar.scrolled .navbar-nav > li > a.active {
-        color: #bac964 !important; }
+        color: #3286b3 !important; }
     .site-navbar.scrolled .navbar-nav > li.active > a {
-      color: #bac964 !important; }
+      color: #3286b3 !important; }
 
 .site-hero {
   background-color: #ccc;
@@ -169,7 +169,7 @@ a {
     display: block;
     margin-bottom: 50px;
     background: #edf0f2;
-    background: #bac964;
+    background: #3286b3;
     width: 100px;
     height: 100px;
     position: relative;
@@ -212,7 +212,7 @@ a {
   .btn.btn-primary {
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-      background: #b2c251; }
+      background: #0a41ad; }
 
 .progress {
   overflow: visible;
@@ -232,9 +232,9 @@ a {
       -o-transition: .3s all ease;
       transition: .3s all ease; }
       .filters ul li:hover {
-        color: #bac964; }
+        color: #3286b3; }
       .filters ul li.active {
-        color: #bac964; }
+        color: #3286b3; }
 
 .single-portfolio {
   margin-bottom: 50px;
@@ -319,7 +319,7 @@ a {
     display: block;
     font-size: 16px; }
   .resume-item h3 {
-    color: #bac964;
+    color: #3286b3;
     font-size: 20px; }
   .resume-item .school {
     color: rgba(255, 255, 255, 0.3); }
@@ -349,7 +349,7 @@ a {
       .blog-entry .blog-entry-text h3 a {
         color: #fff; }
         .blog-entry .blog-entry-text h3 a:hover {
-          color: #bac964; }
+          color: #3286b3; }
   .blog-entry .meta {
     font-size: 14px; }
     .blog-entry .meta a {
@@ -357,7 +357,7 @@ a {
       margin-right: 10px;
       color: rgba(255, 255, 255, 0.4); }
       .blog-entry .meta a:hover {
-        color: #bac964; }
+        color: #3286b3; }
 
 .form-control {
   border: none !important;
